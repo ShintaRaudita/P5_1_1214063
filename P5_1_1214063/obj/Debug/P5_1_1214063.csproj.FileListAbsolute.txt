@@ -1,0 +1,6 @@
+C:\Users\user pc\source\repos\P5_1_1214063\obj\Debug\P5_1_1214063.csproj.AssemblyReference.cache
+C:\Users\user pc\source\repos\P5_1_1214063\obj\Debug\P5_1_1214063.csproj.SuggestedBindingRedirects.cache
+C:\Users\user pc\source\repos\P5_1_1214063\obj\Debug\P5_1_1214063.Form1.resources
+C:\Users\user pc\source\repos\P5_1_1214063\obj\Debug\P5_1_1214063.Properties.Resources.resources
+C:\Users\user pc\source\repos\P5_1_1214063\obj\Debug\P5_1_1214063.csproj.GenerateResource.cache
+C:\Users\user pc\source\repos\P5_1_1214063\obj\Debug\P5_1_1214063.csproj.CoreCompileInputs.cache
